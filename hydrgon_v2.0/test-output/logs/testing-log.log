@@ -1,0 +1,879 @@
+2021-04-22 22:22:24 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-04-22 22:22:27 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-04-22 22:22:27 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-04-22 22:22:27 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-04-22 22:22:27 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-04-22 22:22:27 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-04-22 22:22:27 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-04-22 22:22:27 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-04-22 22:22:27 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-04-22 22:22:27 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-04-26 15:28:11 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-04-26 15:28:14 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-04-26 15:28:14 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-04-26 15:28:14 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-04-26 15:28:14 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-04-26 15:28:14 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-04-26 15:28:14 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-04-26 15:28:14 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-04-26 15:28:14 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-04-26 15:28:14 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-04-26 15:28:14 INFO  CommLog:67 - -onTestFailure start--Method:test4
+2021-04-26 15:28:15 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 18:33:44 INFO  ExcelReader2:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:33:44 INFO  ExcelReader2:54 - Find test case:tc2at row:2
+2021-05-03 18:33:44 INFO  ExcelReader2:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:33:44 INFO  ExcelReader2:82 - Test data in excel cell by key is:female
+2021-05-03 18:33:45 INFO  ExcelReader2:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:33:45 INFO  ExcelReader2:54 - Find test case:tc2at row:2
+2021-05-03 18:33:45 INFO  ExcelReader2:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:33:45 INFO  ExcelReader2:82 - Test data in excel cell by key is:user_2
+2021-05-03 18:35:51 INFO  ExcelReader2:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:35:51 INFO  ExcelReader2:54 - Find test case:[tc2]at row:2
+2021-05-03 18:35:51 INFO  ExcelReader2:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:35:51 INFO  ExcelReader2:82 - Test data in excel cell by key is:female
+2021-05-03 18:35:51 INFO  ExcelReader2:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:35:51 INFO  ExcelReader2:54 - Find test case:[tc2]at row:2
+2021-05-03 18:35:51 INFO  ExcelReader2:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:35:51 INFO  ExcelReader2:82 - Test data in excel cell by key is:user_2
+2021-05-03 18:38:24 INFO  ExcelReader:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:38:24 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-03 18:38:24 INFO  ExcelReader:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:38:24 INFO  ExcelReader:82 - Test data in excel cell by key is:female
+2021-05-03 18:38:24 INFO  ExcelReader:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:38:24 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-03 18:38:24 INFO  ExcelReader:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:38:24 INFO  ExcelReader:82 - Test data in excel cell by key is:user_2
+2021-05-03 18:42:36 INFO  ExcelReader:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:42:36 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-03 18:42:36 INFO  ExcelReader:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:42:36 INFO  ExcelReader:81 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:sex
+2021-05-03 18:42:36 INFO  ExcelReader:83 - Test data in excel cell by key is:female
+2021-05-03 18:42:36 INFO  ExcelReader:33 - Fetch excel file,the excel file path is:C:\Users\Bishop\Downloads\Sample_TestData.xlsx
+2021-05-03 18:42:36 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-03 18:42:36 INFO  ExcelReader:69 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-03 18:42:36 INFO  ExcelReader:81 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:user
+2021-05-03 18:42:36 INFO  ExcelReader:83 - Test data in excel cell by key is:user_2
+2021-05-03 18:54:01 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 18:54:04 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 18:54:04 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 18:54:04 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 18:54:04 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 18:54:04 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 18:54:04 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 18:54:04 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 18:54:04 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 18:54:04 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 19:05:28 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 19:05:31 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 19:05:31 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 19:05:31 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 19:05:31 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 19:05:31 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 19:05:31 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 19:05:31 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 19:05:31 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 19:05:31 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 20:12:57 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 20:12:59 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 20:12:59 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 20:12:59 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 20:12:59 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 20:12:59 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 20:12:59 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 20:12:59 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 20:12:59 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 20:12:59 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 20:15:21 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 20:15:24 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 20:15:24 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 20:15:24 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 20:15:24 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 20:15:24 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 20:15:24 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 20:15:24 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 20:15:24 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 20:15:24 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 20:19:17 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 20:19:20 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 20:19:20 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 20:19:20 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 20:19:20 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 20:19:20 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 20:19:20 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 20:19:20 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 20:19:20 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 20:19:20 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 20:23:16 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 20:23:18 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 20:23:18 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 20:23:18 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 20:23:18 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 20:23:19 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 20:23:19 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 20:23:19 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 20:23:19 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 20:23:19 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 20:24:01 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 20:24:03 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 20:24:03 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 20:24:03 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 20:24:03 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 20:24:04 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 20:24:04 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 20:24:04 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 20:24:04 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 20:24:04 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-03 20:34:15 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-03 20:34:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-03 20:34:17 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-03 20:34:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-03 20:34:17 INFO  CommLog:67 - -onTestFailure start--Method:test2
+2021-05-03 20:34:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-03 20:34:17 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test3
+2021-05-03 20:34:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test4
+2021-05-03 20:34:17 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test4
+2021-05-03 20:34:17 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-06 22:58:49 INFO  CommLog:25 - -onStart Listner start--Method:BaiduTest
+2021-05-06 22:58:49 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-06 22:58:50 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-06 22:58:50 INFO  CommLog:31 - -onFinish Listner start--Method:BaiduTest
+2021-05-08 19:35:35 ERROR Apple:24 - ---func2 result is wrong---
+2021-05-08 19:36:17 ERROR Apple:24 - ---func2 result is wrong---
+2021-05-08 19:39:33 ERROR Apple:28 - ---func2 result is wrong---
+2021-05-08 19:40:39 ERROR Apple:28 - ---func2 result is wrong---
+2021-05-08 19:41:43 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 19:41:43 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 19:41:43 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 19:41:43 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 19:41:43 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 19:41:43 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 19:41:43 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 19:44:10 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 19:44:10 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 19:44:10 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 19:44:10 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 19:44:10 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 19:44:10 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 19:44:10 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 19:44:48 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 19:44:48 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 19:44:48 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 19:44:48 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 19:44:48 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-08 19:44:48 INFO  CommLog:36 - -onTestStart Listner start--Method:test3
+2021-05-08 19:44:48 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test3
+2021-05-08 19:44:48 INFO  CommLog:36 - -onTestStart Listner start--Method:test4
+2021-05-08 19:44:48 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test4
+2021-05-08 19:44:48 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:01:04 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:01:04 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 20:01:04 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 20:01:04 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 20:01:04 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-08 20:01:04 INFO  CommLog:36 - -onTestStart Listner start--Method:test3
+2021-05-08 20:01:04 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test3
+2021-05-08 20:01:04 INFO  CommLog:36 - -onTestStart Listner start--Method:test4
+2021-05-08 20:01:04 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test4
+2021-05-08 20:01:04 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:03:29 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:03:29 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 20:03:30 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-08 20:03:30 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-08 20:03:30 INFO  CommLog:46 - -onTestSuccess Listner start--Method:searchBaidu
+2021-05-08 20:03:30 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:16:12 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:16:12 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 20:16:12 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 20:16:12 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 20:16:12 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 20:16:12 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 20:16:12 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:17:24 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:17:24 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 20:17:24 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 20:17:24 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 20:17:24 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 20:17:24 INFO  CommLog:66 - -onTestFailure start--Method:test2
+2021-05-08 20:17:24 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:18:41 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:18:41 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 20:18:42 INFO  CommLog:66 - -onTestFailure start--Method:baiduBaike
+2021-05-08 20:18:43 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-08 20:18:43 INFO  CommLog:46 - -onTestSuccess Listner start--Method:searchBaidu
+2021-05-08 20:18:43 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:33:46 ERROR Apple:28 - ---func2 result is wrong---
+2021-05-08 20:34:31 ERROR Apple:28 - ---func2 result is wrong---
+2021-05-08 20:35:54 ERROR Apple:28 - ---func2 result is wrong---
+2021-05-08 20:52:19 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:52:19 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 20:52:19 INFO  CommLog:66 - -onTestFailure start--Method:test1
+2021-05-08 20:52:19 INFO  CommLog:66 - -onTestFailure start--Method:test1
+2021-05-08 20:52:19 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:52:49 ERROR Apple:30 - ---func2 result is wrong---
+2021-05-08 20:54:00 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:54:00 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 20:54:00 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 20:54:00 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 20:54:00 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-08 20:54:00 INFO  CommLog:36 - -onTestStart Listner start--Method:test3
+2021-05-08 20:54:00 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test3
+2021-05-08 20:54:00 INFO  CommLog:36 - -onTestStart Listner start--Method:test4
+2021-05-08 20:54:00 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test4
+2021-05-08 20:54:00 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 20:54:29 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 20:54:29 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-08 20:54:29 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-08 20:54:29 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-08 20:54:29 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-08 20:54:29 INFO  CommLog:36 - -onTestStart Listner start--Method:test3
+2021-05-08 20:54:29 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test3
+2021-05-08 20:54:29 INFO  CommLog:36 - -onTestStart Listner start--Method:test4
+2021-05-08 20:54:29 INFO  CommLog:66 - -onTestFailure start--Method:test4
+2021-05-08 20:54:29 INFO  CommLog:66 - -onTestFailure start--Method:test4
+2021-05-08 20:54:29 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 21:04:24 ERROR Apple:31 - ---func2 result is wrong---
+2021-05-08 21:05:43 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 21:05:43 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 21:05:43 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 21:05:43 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 21:06:16 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 21:06:16 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 21:06:16 INFO  CommLog:66 - -onTestFailure start--Method:func1
+2021-05-08 21:06:16 INFO  CommLog:66 - -onTestFailure start--Method:func1
+2021-05-08 21:06:16 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 21:13:00 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 21:13:00 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 21:13:00 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 21:13:00 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 21:13:00 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 21:13:00 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 21:17:02 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 21:17:02 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 21:17:02 INFO  CommLog:66 - -onTestFailure start--Method:func1
+2021-05-08 21:17:02 INFO  CommLog:66 - -onTestFailure start--Method:func1
+2021-05-08 21:17:02 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:12:56 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:12:56 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:12:56 INFO  CommLog:66 - -onTestFailure start--Method:func1
+2021-05-08 22:12:56 INFO  CommLog:66 - -onTestFailure start--Method:func1
+2021-05-08 22:12:56 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:13:25 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:13:26 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:13:26 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 22:13:26 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 22:13:26 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 22:13:26 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:14:07 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:14:07 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:14:07 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 22:14:07 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 22:14:07 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 22:14:07 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:15:45 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:15:45 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:15:45 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 22:15:46 ERROR Apple:38 - ---func2 result is wrong---
+2021-05-08 22:15:46 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 22:15:46 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 22:15:46 ERROR Apple:38 - ---func2 result is wrong---
+2021-05-08 22:15:46 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:16:12 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:16:12 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:16:12 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 22:16:12 ERROR Apple:38 - ---after method---
+2021-05-08 22:16:12 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 22:16:12 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 22:16:12 ERROR Apple:38 - ---after method---
+2021-05-08 22:16:12 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:17:12 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:17:13 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:17:13 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 22:17:13 INFO  Apple:38 - ---after method---
+2021-05-08 22:17:13 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 22:17:13 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 22:17:13 INFO  Apple:38 - ---after method---
+2021-05-08 22:17:13 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:19:34 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:19:34 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:19:34 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 22:19:34 INFO  Apple:38 - ---after method---
+2021-05-08 22:19:34 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 22:19:34 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 22:19:34 INFO  Apple:38 - ---after method---
+2021-05-08 22:19:34 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:19:58 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:19:58 INFO  CommLog:36 - -onTestStart Listner start--Method:func1
+2021-05-08 22:19:58 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func1
+2021-05-08 22:19:58 INFO  Apple:38 - ---after method---
+2021-05-08 22:19:58 INFO  CommLog:36 - -onTestStart Listner start--Method:func2
+2021-05-08 22:19:58 INFO  CommLog:46 - -onTestSuccess Listner start--Method:func2
+2021-05-08 22:19:58 INFO  Apple:38 - ---after method---
+2021-05-08 22:19:58 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:24:34 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:24:35 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 22:24:35 INFO  CommLog:66 - -onTestFailure start--Method:baiduBaike
+2021-05-08 22:24:35 INFO  CommLog:66 - -onTestFailure start--Method:baiduBaike
+2021-05-08 22:24:35 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:26:13 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:26:13 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 22:26:14 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-08 22:26:14 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-08 22:26:14 INFO  CommLog:46 - -onTestSuccess Listner start--Method:searchBaidu
+2021-05-08 22:26:14 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:36:19 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:36:19 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 22:36:19 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-08 22:36:19 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-08 22:36:20 INFO  CommLog:46 - -onTestSuccess Listner start--Method:searchBaidu
+2021-05-08 22:36:20 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:37:14 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:37:14 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 22:37:15 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-08 22:37:15 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-08 22:37:15 INFO  CommLog:66 - -onTestFailure start--Method:searchBaidu
+2021-05-08 22:37:15 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:46:50 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:46:50 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 22:46:51 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-08 22:46:51 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduFuc
+2021-05-08 22:46:51 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduFuc
+2021-05-08 22:46:51 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-08 22:46:51 INFO  CommLog:66 - -onTestFailure start--Method:searchBaidu
+2021-05-08 22:46:52 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-08 22:52:46 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-08 22:52:46 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-08 22:52:46 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-08 22:52:47 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduFuc
+2021-05-08 22:52:47 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduFuc
+2021-05-08 22:52:47 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-08 22:52:47 INFO  CommLog:66 - -onTestFailure start--Method:searchBaidu
+2021-05-08 22:52:47 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 00:30:17 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 00:30:17 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 00:30:17 INFO  CommLog:55 - -onTestSkiiped Listner start--Method:test1
+2021-05-09 00:30:17 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 00:30:17 INFO  CommLog:55 - -onTestSkiiped Listner start--Method:test2
+2021-05-09 00:30:17 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 00:34:16 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 00:34:16 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 00:34:16 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-09 00:34:16 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 00:34:16 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-09 00:34:16 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 00:39:15 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 00:39:15 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 00:39:15 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-09 00:39:15 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 00:39:15 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-09 00:39:15 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 00:50:51 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 00:50:51 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 00:50:51 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-09 00:50:51 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 00:50:51 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-09 00:50:51 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 00:52:12 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 00:52:12 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 00:52:12 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-09 00:52:12 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 00:52:12 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-09 00:52:12 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 00:55:19 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 00:55:19 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 00:55:19 INFO  CommLog:66 - -onTestFailure start--Method:test1
+2021-05-09 00:55:19 INFO  CommLog:66 - -onTestFailure start--Method:test1
+2021-05-09 00:55:19 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 00:57:53 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 00:57:53 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 00:57:53 INFO  CommLog:55 - -onTestSkiiped Listner start--Method:test1
+2021-05-09 00:57:53 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 00:57:53 INFO  CommLog:55 - -onTestSkiiped Listner start--Method:test2
+2021-05-09 00:57:53 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 01:01:43 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 01:01:43 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 01:01:43 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-09 01:01:43 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 01:01:43 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-09 01:01:43 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 01:03:53 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 01:03:53 INFO  CommLog:36 - -onTestStart Listner start--Method:test1
+2021-05-09 01:03:53 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test1
+2021-05-09 01:03:53 INFO  CommLog:36 - -onTestStart Listner start--Method:test2
+2021-05-09 01:03:53 INFO  CommLog:46 - -onTestSuccess Listner start--Method:test2
+2021-05-09 01:03:53 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 01:05:57 INFO  CommLog:27 - -onStart Listner start--Method:hydrgon
+2021-05-09 01:05:57 INFO  CommLog:38 - -onTestStart Listner start--Method:test1
+2021-05-09 01:05:57 INFO  CommLog:68 - -onTestFailure start--Method:test1
+2021-05-09 01:05:57 INFO  CommLog:68 - -onTestFailure start--Method:test1
+2021-05-09 01:05:57 INFO  CommLog:33 - -onFinish Listner start--Method:hydrgon
+2021-05-09 01:31:09 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 01:31:09 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 01:31:09 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 01:31:09 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 01:31:09 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 01:31:09 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 01:55:02 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 01:55:02 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 01:55:02 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 01:55:02 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 01:55:02 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 01:55:02 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 01:56:47 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 01:56:47 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 01:56:47 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 01:56:47 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 01:56:47 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 01:56:47 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 01:59:31 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 01:59:31 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 01:59:31 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 01:59:31 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 01:59:31 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 01:59:31 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:03:15 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:03:15 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:03:15 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:03:15 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:03:15 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:03:15 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:07:50 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:07:50 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:07:50 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:07:50 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:07:50 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:07:50 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:13:17 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:13:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:13:17 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:13:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:13:17 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:13:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-09 02:13:17 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:13:17 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:13:17 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:15:28 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:15:28 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:15:28 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:15:28 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:15:28 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:15:28 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-09 02:15:28 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:15:28 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:18:09 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:18:09 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:18:09 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:18:09 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:18:09 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:18:09 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-09 02:18:09 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:18:09 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:19:44 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:19:44 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:19:44 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:19:44 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:19:44 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:19:44 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-09 02:19:44 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:19:44 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:23:30 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:23:30 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:23:30 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:23:30 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:23:30 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:23:30 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-09 02:23:30 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:23:30 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:24:48 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:24:48 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:24:48 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:24:48 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:24:48 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:24:48 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-09 02:24:48 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:24:48 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:27:17 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:27:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test1
+2021-05-09 02:27:17 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:27:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test2
+2021-05-09 02:27:17 INFO  CommLog:47 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:27:17 INFO  CommLog:37 - -onTestStart Listner start--Method:test3
+2021-05-09 02:27:17 INFO  CommLog:67 - -onTestFailure start--Method:test3
+2021-05-09 02:27:17 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:28:37 INFO  CommLog:25 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:28:38 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduBaike
+2021-05-09 02:28:39 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-09 02:28:39 INFO  CommLog:36 - -onTestStart Listner start--Method:baiduFuc
+2021-05-09 02:28:39 INFO  CommLog:46 - -onTestSuccess Listner start--Method:baiduFuc
+2021-05-09 02:28:39 INFO  CommLog:36 - -onTestStart Listner start--Method:searchBaidu
+2021-05-09 02:28:39 INFO  CommLog:66 - -onTestFailure start--Method:searchBaidu
+2021-05-09 02:28:40 INFO  CommLog:31 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:30:46 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:30:46 INFO  CommLog:37 - -onTestStart Listner start--Method:baiduBaike
+2021-05-09 02:30:48 INFO  CommLog:47 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-09 02:30:48 INFO  CommLog:37 - -onTestStart Listner start--Method:baiduFuc
+2021-05-09 02:30:48 INFO  CommLog:47 - -onTestSuccess Listner start--Method:baiduFuc
+2021-05-09 02:30:48 INFO  CommLog:37 - -onTestStart Listner start--Method:searchBaidu
+2021-05-09 02:30:48 INFO  CommLog:67 - -onTestFailure start--Method:searchBaidu
+2021-05-09 02:30:48 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:33:01 INFO  CommLog:26 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:33:02 INFO  CommLog:37 - -onTestStart Listner start--Method:baiduBaike
+2021-05-09 02:33:03 INFO  CommLog:48 - -onTestSuccess Listner start--Method:baiduBaike
+2021-05-09 02:33:03 INFO  CommLog:37 - -onTestStart Listner start--Method:baiduFuc
+2021-05-09 02:33:03 INFO  CommLog:48 - -onTestSuccess Listner start--Method:baiduFuc
+2021-05-09 02:33:03 INFO  CommLog:37 - -onTestStart Listner start--Method:searchBaidu
+2021-05-09 02:33:03 INFO  CommLog:68 - -onTestFailure start--Method:searchBaidu
+2021-05-09 02:33:04 INFO  CommLog:32 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:49:13 INFO  CommLog:29 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:49:13 INFO  CommLog:40 - -onTestStart Listner start--Method:test1
+2021-05-09 02:49:13 INFO  CommLog:51 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:49:13 INFO  CommLog:40 - -onTestStart Listner start--Method:test2
+2021-05-09 02:49:13 INFO  CommLog:51 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:49:13 INFO  CommLog:40 - -onTestStart Listner start--Method:test3
+2021-05-09 02:49:13 INFO  CommLog:71 - -onTestFailure start--Method:test3
+2021-05-09 02:49:13 INFO  CommLog:35 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:50:23 INFO  CommLog:29 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:50:23 INFO  CommLog:40 - -onTestStart Listner start--Method:test1
+2021-05-09 02:50:23 INFO  CommLog:71 - -onTestFailure start--Method:test1
+2021-05-09 02:50:23 INFO  CommLog:40 - -onTestStart Listner start--Method:test2
+2021-05-09 02:50:23 INFO  CommLog:60 - -onTestSkiiped Listner start--Method:test2
+2021-05-09 02:50:23 INFO  CommLog:40 - -onTestStart Listner start--Method:test3
+2021-05-09 02:50:23 INFO  CommLog:60 - -onTestSkiiped Listner start--Method:test3
+2021-05-09 02:50:23 INFO  CommLog:35 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:56:49 INFO  CommLog:30 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:56:49 INFO  CommLog:41 - -onTestStart Listner start--Method:test1
+2021-05-09 02:56:49 INFO  CommLog:72 - -onTestFailure start--Method:test1
+2021-05-09 02:56:49 INFO  CommLog:41 - -onTestStart Listner start--Method:test2
+2021-05-09 02:56:49 INFO  CommLog:72 - -onTestFailure start--Method:test2
+2021-05-09 02:56:49 INFO  CommLog:41 - -onTestStart Listner start--Method:test3
+2021-05-09 02:56:49 INFO  CommLog:72 - -onTestFailure start--Method:test3
+2021-05-09 02:56:49 INFO  CommLog:36 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:57:51 INFO  CommLog:30 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:57:51 INFO  CommLog:41 - -onTestStart Listner start--Method:test1
+2021-05-09 02:57:51 INFO  CommLog:72 - -onTestFailure start--Method:test1
+2021-05-09 02:57:51 INFO  CommLog:41 - -onTestStart Listner start--Method:test2
+2021-05-09 02:57:51 INFO  CommLog:72 - -onTestFailure start--Method:test2
+2021-05-09 02:57:51 INFO  CommLog:41 - -onTestStart Listner start--Method:test3
+2021-05-09 02:57:51 INFO  CommLog:72 - -onTestFailure start--Method:test3
+2021-05-09 02:57:51 INFO  CommLog:36 - -onFinish Listner start--Method:hydrgon
+2021-05-09 02:58:48 INFO  CommLog:30 - -onStart Listner start--Method:hydrgon
+2021-05-09 02:58:48 INFO  CommLog:41 - -onTestStart Listner start--Method:test1
+2021-05-09 02:58:48 INFO  CommLog:52 - -onTestSuccess Listner start--Method:test1
+2021-05-09 02:58:48 INFO  CommLog:41 - -onTestStart Listner start--Method:test2
+2021-05-09 02:58:48 INFO  CommLog:52 - -onTestSuccess Listner start--Method:test2
+2021-05-09 02:58:48 INFO  CommLog:41 - -onTestStart Listner start--Method:test3
+2021-05-09 02:58:48 INFO  CommLog:72 - -onTestFailure start--Method:test3
+2021-05-09 02:58:48 INFO  CommLog:36 - -onFinish Listner start--Method:hydrgon
+2021-05-09 11:46:54 INFO  BaseTest:24 - -afterSuite--Method:hydrgon
+2021-05-09 11:46:54 INFO  CommLog:30 - -onStart Listner start--Method:hydrgon
+2021-05-09 11:46:54 INFO  BaseTest:37 - -beforeMethod start--Method:null
+2021-05-09 11:46:54 INFO  CommLog:41 - -onTestStart Listner start--Method:test1
+2021-05-09 11:46:54 INFO  CommLog:52 - -onTestSuccess Listner start--Method:test1
+2021-05-09 11:46:54 INFO  BaseTest:37 - -beforeMethod start--Method:null
+2021-05-09 11:46:54 INFO  CommLog:41 - -onTestStart Listner start--Method:test2
+2021-05-09 11:46:54 INFO  CommLog:52 - -onTestSuccess Listner start--Method:test2
+2021-05-09 11:46:54 INFO  BaseTest:37 - -beforeMethod start--Method:null
+2021-05-09 11:46:54 INFO  CommLog:41 - -onTestStart Listner start--Method:test3
+2021-05-09 11:46:54 INFO  CommLog:72 - -onTestFailure start--Method:test3
+2021-05-09 11:46:54 INFO  CommLog:36 - -onFinish Listner start--Method:hydrgon
+2021-05-09 11:46:55 INFO  BaseTest:31 - -afterSuite--Method:hydrgon
+2021-05-09 11:48:31 INFO  BaseTest:24 - -afterSuite--Method:hydrgon
+2021-05-09 11:48:31 INFO  BaseTest:37 - -beforeMethod start--Method:null
+2021-05-09 11:48:31 INFO  BaseTest:37 - -beforeMethod start--Method:null
+2021-05-09 11:48:31 INFO  BaseTest:37 - -beforeMethod start--Method:null
+2021-05-09 11:48:31 INFO  BaseTest:31 - -afterSuite--Method:hydrgon
+2021-05-09 11:56:12 INFO  BaseTest:23 - -beforeSuite--Method:hydrgon
+2021-05-09 11:56:12 INFO  BaseTest:36 - -beforeMethod start--Method:test1
+2021-05-09 11:56:12 INFO  BaseTest:36 - -beforeMethod start--Method:test2
+2021-05-09 11:56:12 INFO  BaseTest:36 - -beforeMethod start--Method:test3
+2021-05-09 11:56:12 INFO  BaseTest:30 - -afterSuite--Method:hydrgon
+2021-05-09 11:57:38 INFO  BaseTest:23 - -beforeSuite--Method:hydrgon
+2021-05-09 11:57:38 INFO  BaseTest:36 - -beforeMethod start--Method:Pear.test1()[pri:0, instance:testcases.Pear@3c01cfa1]
+2021-05-09 11:57:38 INFO  BaseTest:36 - -beforeMethod start--Method:Pear.test2()[pri:0, instance:testcases.Pear@3c01cfa1]
+2021-05-09 11:57:38 INFO  BaseTest:36 - -beforeMethod start--Method:Pear.test3()[pri:0, instance:testcases.Pear@3c01cfa1]
+2021-05-09 11:57:38 INFO  BaseTest:30 - -afterSuite--Method:hydrgon
+2021-05-09 11:59:02 INFO  BaseTest:23 - -beforeSuite--Method:hydrgon
+2021-05-09 11:59:02 INFO  BaseTest:36 - -beforeMethod start--Method:Pear.test1()[pri:0, instance:testcases.Pear@75d2da2d]
+2021-05-09 11:59:02 INFO  BaseTest:36 - -beforeMethod start--Method:Pear.test2()[pri:0, instance:testcases.Pear@75d2da2d]
+2021-05-09 11:59:02 INFO  BaseTest:36 - -beforeMethod start--Method:Pear.test3()[pri:0, instance:testcases.Pear@75d2da2d]
+2021-05-09 11:59:02 INFO  BaseTest:30 - -afterSuite--Method:hydrgon
+2021-05-09 12:05:50 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 12:05:50 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@130a0f66]
+2021-05-09 12:05:51 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@130a0f66]
+2021-05-09 12:05:51 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@130a0f66]
+2021-05-09 12:05:52 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 12:11:43 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 12:11:43 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@76b0ae1b]
+2021-05-09 12:11:44 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@76b0ae1b]
+2021-05-09 12:11:44 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@76b0ae1b]
+2021-05-09 12:11:45 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 12:18:42 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 12:18:42 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@d4ab71a]
+2021-05-09 12:18:44 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@d4ab71a]
+2021-05-09 12:18:44 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@d4ab71a]
+2021-05-09 12:18:45 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 12:40:10 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 12:40:10 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@632aa1a3]
+2021-05-09 12:40:10 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 12:40:52 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 12:40:52 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@3b4ef7]
+2021-05-09 12:40:53 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@3b4ef7]
+2021-05-09 12:40:53 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@3b4ef7]
+2021-05-09 12:40:54 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 12:53:06 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 12:53:06 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@27f0ad19]
+2021-05-09 12:53:08 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@27f0ad19]
+2021-05-09 12:53:08 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@27f0ad19]
+2021-05-09 12:53:09 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 13:02:48 INFO  BaseTest:55 - -beforeSuite--Method:hydrgon
+2021-05-09 13:02:48 INFO  BaseTest:68 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@5a6d5a8f]
+2021-05-09 13:02:50 INFO  BaseTest:68 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@5a6d5a8f]
+2021-05-09 13:02:50 INFO  BaseTest:68 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@5a6d5a8f]
+2021-05-09 13:02:51 INFO  BaseTest:62 - -afterSuite--Method:hydrgon
+2021-05-09 13:05:38 INFO  BaseTest:55 - -beforeSuite--Method:hydrgon
+2021-05-09 13:05:38 INFO  BaseTest:68 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@1e8823d2]
+2021-05-09 13:05:39 INFO  BaseTest:68 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@1e8823d2]
+2021-05-09 13:05:39 INFO  BaseTest:68 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@1e8823d2]
+2021-05-09 13:05:40 INFO  BaseTest:62 - -afterSuite--Method:hydrgon
+2021-05-09 15:07:44 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 15:07:44 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 15:07:44 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 15:07:47 INFO  BaseTest:52 - -beforeSuite--Method:hydrgon
+2021-05-09 15:07:47 INFO  BaseTest:65 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@3b582111]
+2021-05-09 15:07:48 INFO  BaseTest:65 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@3b582111]
+2021-05-09 15:07:48 INFO  BaseTest:65 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@3b582111]
+2021-05-09 15:07:49 INFO  BaseTest:59 - -afterSuite--Method:hydrgon
+2021-05-09 15:08:13 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 15:08:13 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 15:08:13 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 15:08:16 INFO  BaseTest:52 - -beforeSuite--Method:hydrgon
+2021-05-09 15:08:16 INFO  BaseTest:65 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@6979efad]
+2021-05-09 15:08:18 INFO  BaseTest:65 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@6979efad]
+2021-05-09 15:08:18 INFO  BaseTest:65 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@6979efad]
+2021-05-09 15:08:19 INFO  BaseTest:59 - -afterSuite--Method:hydrgon
+2021-05-09 15:12:33 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 15:12:33 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 15:12:33 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 15:12:36 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 15:12:36 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@64d7b720]
+2021-05-09 15:12:37 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@64d7b720]
+2021-05-09 15:12:37 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@64d7b720]
+2021-05-09 15:12:38 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 15:20:06 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 15:20:06 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 15:20:06 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 15:20:09 INFO  BaseTest:54 - -beforeSuite--Method:hydrgon
+2021-05-09 15:20:09 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@6979efad]
+2021-05-09 15:20:10 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@6979efad]
+2021-05-09 15:20:10 INFO  BaseTest:67 - -beforeMethod start--Method:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@6979efad]
+2021-05-09 15:20:11 INFO  BaseTest:61 - -afterSuite--Method:hydrgon
+2021-05-09 15:28:17 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 15:28:17 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 15:28:17 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 15:28:20 INFO  BaseTest:47 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 15:28:20 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 15:28:20 INFO  BaseTest:64 - -beforeMethod start--:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@4a8b5227]
+2021-05-09 15:28:20 INFO  BaseTest:67 - --before method start, the test case method name is:baiduBaike
+2021-05-09 15:28:21 INFO  BaseTest:64 - -beforeMethod start--:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@4a8b5227]
+2021-05-09 15:28:21 INFO  BaseTest:67 - --before method start, the test case method name is:baiduFuc
+2021-05-09 15:28:21 INFO  BaseTest:64 - -beforeMethod start--:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@4a8b5227]
+2021-05-09 15:28:21 INFO  BaseTest:67 - --before method start, the test case method name is:searchBaidu
+2021-05-09 15:28:22 INFO  BaseTest:58 - -afterSuite method start--:hydrgon
+2021-05-09 15:37:19 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 15:37:19 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 15:37:19 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 15:37:22 INFO  BaseTest:47 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 15:37:22 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 15:37:22 INFO  BaseTest:64 - -beforeMethod start--,the test case method name is:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@30457e14]
+2021-05-09 15:37:22 INFO  BaseTest:67 - --before method start, the test case name is:baiduBaike
+2021-05-09 15:37:23 INFO  BaseTest:80 - The test case[baiduBaike] is PASS
+2021-05-09 15:37:23 INFO  BaseTest:64 - -beforeMethod start--,the test case method name is:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@30457e14]
+2021-05-09 15:37:23 INFO  BaseTest:67 - --before method start, the test case name is:baiduFuc
+2021-05-09 15:37:23 INFO  BaseTest:80 - The test case[baiduFuc] is PASS
+2021-05-09 15:37:23 INFO  BaseTest:64 - -beforeMethod start--,the test case method name is:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@30457e14]
+2021-05-09 15:37:23 INFO  BaseTest:67 - --before method start, the test case name is:searchBaidu
+2021-05-09 15:37:23 ERROR BaseTest:90 - The test case[searchBaidu] is FAIL
+2021-05-09 15:37:23 INFO  BaseTest:141 - The screenshot simple name is:2021-05-09_153723
+2021-05-09 15:37:24 INFO  BaseTest:128 - The screenshot full name is:D:\idea-space\hydrgon/test-output/screenshot/Screenshot2021-05-09_153723.jpeg
+2021-05-09 15:37:24 INFO  BaseTest:98 - The screenshot full path is:../screenshot/Screenshot2021-05-09_153723.jpeg
+2021-05-09 15:37:24 INFO  BaseTest:58 - -afterSuite method start--:hydrgon
+2021-05-09 15:59:58 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 15:59:58 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 15:59:58 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 16:00:02 INFO  BaseTest:47 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 16:00:02 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 16:00:02 INFO  BaseTest:54 - -before suite-init the Extent Report path
+2021-05-09 16:00:02 INFO  ConfigFileReader:98 - Extent html report path is found from properties file"/test-output/reports/htmlReports/"
+2021-05-09 16:01:19 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 16:01:20 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 16:01:20 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 16:01:22 INFO  BaseTest:47 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 16:01:23 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 16:01:23 INFO  BaseTest:54 - -before suite-init the Extent Report path
+2021-05-09 16:01:23 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 16:03:33 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 16:03:33 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 16:03:33 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 16:03:36 INFO  BaseTest:47 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 16:03:36 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 16:03:36 INFO  BaseTest:54 - -before suite-init the Extent Report path
+2021-05-09 16:03:36 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 16:03:36 INFO  BaseTest:56 - -before suite-init the Extent Test
+2021-05-09 16:03:36 INFO  BaseTest:69 - -beforeMethod start--,the test case method name is:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@452ba1db]
+2021-05-09 16:03:36 INFO  BaseTest:72 - --before method start, the test case name is:baiduBaike
+2021-05-09 16:03:38 INFO  BaseTest:85 - The test case[baiduBaike] is PASS
+2021-05-09 16:03:38 INFO  BaseTest:69 - -beforeMethod start--,the test case method name is:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@452ba1db]
+2021-05-09 16:03:38 INFO  BaseTest:72 - --before method start, the test case name is:baiduFuc
+2021-05-09 16:03:38 INFO  BaseTest:85 - The test case[baiduFuc] is PASS
+2021-05-09 16:03:38 INFO  BaseTest:69 - -beforeMethod start--,the test case method name is:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@452ba1db]
+2021-05-09 16:03:38 INFO  BaseTest:72 - --before method start, the test case name is:searchBaidu
+2021-05-09 16:03:38 ERROR BaseTest:95 - The test case[searchBaidu] is FAIL
+2021-05-09 16:03:38 INFO  BaseTest:146 - The screenshot simple name is:2021-05-09_160338
+2021-05-09 16:03:39 INFO  BaseTest:133 - The screenshot full name is:D:\idea-space\hydrgon/test-output/screenshot/Screenshot2021-05-09_160338.jpeg
+2021-05-09 16:03:39 INFO  BaseTest:103 - The screenshot full path is:../screenshot/Screenshot2021-05-09_160338.jpeg
+2021-05-09 16:03:39 INFO  BaseTest:62 - -afterSuite method start--:hydrgon
+2021-05-09 16:03:39 INFO  BaseTest:64 - Flush extent report
+2021-05-09 17:05:52 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 17:05:52 INFO  BaseTest:57 - -beforeSuite method start--:hydrgon
+2021-05-09 17:05:52 INFO  BaseTest:58 - -before suite-init the Extent Report path
+2021-05-09 17:05:52 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 17:05:53 INFO  BaseTest:60 - -before suite-init the Extent Test
+2021-05-09 17:05:53 INFO  BaseTest:66 - -afterSuite method start--:hydrgon
+2021-05-09 17:05:53 INFO  BaseTest:68 - Flush extent report
+2021-05-09 17:12:20 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 17:12:20 INFO  BaseTest:58 - -beforeSuite method start--:hydrgon
+2021-05-09 17:12:20 INFO  BaseTest:59 - -before suite-init the Extent Report path
+2021-05-09 17:12:20 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 17:12:20 INFO  BaseTest:61 - -before suite-init the Extent Test
+2021-05-09 17:12:20 INFO  BaseTest:64 - ---Init Excel---
+2021-05-09 17:12:20 INFO  ConfigFileReader:57 - excel data file find at:\src\main\resources\excels\Sample_TestData.xlsx
+2021-05-09 17:12:21 INFO  ExcelReader:31 - Fetch excel file,the excel file path is:D:\idea-space\hydrgon\src\main\resources\excels\Sample_TestData.xlsx
+2021-05-09 17:12:21 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-09 17:12:21 INFO  ExcelReader:91 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-09 17:12:21 INFO  ExcelReader:103 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:sex
+2021-05-09 17:12:21 INFO  ExcelReader:105 - Test data in excel cell by key is:female
+2021-05-09 17:12:21 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-09 17:12:21 INFO  ExcelReader:91 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-09 17:12:21 INFO  ExcelReader:103 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:user
+2021-05-09 17:12:21 INFO  ExcelReader:105 - Test data in excel cell by key is:user_2
+2021-05-09 17:12:21 INFO  BaseTest:77 - -beforeMethod start--,the test case method name is:DataTest.DataProviderShow(java.lang.String,java.lang.String)[pri:0, instance:testcases.DataTest@56cdfb3b]
+2021-05-09 17:12:21 INFO  BaseTest:80 - --before method start, the test case name is:DataProviderShow
+2021-05-09 17:12:21 INFO  BaseTest:93 - The test case[DataProviderShow] is PASS
+2021-05-09 17:12:21 INFO  BaseTest:70 - -afterSuite method start--:hydrgon
+2021-05-09 17:12:21 INFO  BaseTest:72 - Flush extent report
+2021-05-09 18:21:43 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 18:21:43 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 18:21:43 INFO  BaseTest:58 - -beforeSuite method start--:hydrgon
+2021-05-09 18:21:43 INFO  BaseTest:59 - -before suite-init the Extent Report path
+2021-05-09 18:21:43 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 18:21:44 INFO  BaseTest:61 - -before suite-init the Extent Test
+2021-05-09 18:21:44 INFO  BaseTest:64 - ---Init Excel---
+2021-05-09 18:21:44 INFO  ConfigFileReader:57 - excel data file find at:\src\main\resources\excels\Sample_TestData.xlsx
+2021-05-09 18:21:44 INFO  ExcelReader:31 - Fetch excel file,the excel file path is:D:\idea-space\hydrgon\src\main\resources\excels\Sample_TestData.xlsx
+2021-05-09 18:21:44 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-09 18:21:44 INFO  ExcelReader:90 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-09 18:21:44 INFO  ExcelReader:102 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:sex
+2021-05-09 18:21:44 INFO  ExcelReader:104 - Test data in excel cell by key is:female
+2021-05-09 18:21:44 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-09 18:21:44 INFO  ExcelReader:90 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-09 18:21:44 INFO  ExcelReader:102 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:user
+2021-05-09 18:21:44 INFO  ExcelReader:104 - Test data in excel cell by key is:user_2
+2021-05-09 18:21:44 INFO  BaseTest:77 - -beforeMethod start--,the test case method name is:DataTest.DataProviderShow(java.lang.String,java.lang.String)[pri:0, instance:testcases.DataTest@32ee6fee]
+2021-05-09 18:21:44 INFO  BaseTest:80 - --before method start, the test case name is:DataProviderShow
+2021-05-09 18:21:44 INFO  BaseTest:93 - The test case[DataProviderShow] is PASS
+2021-05-09 18:21:44 INFO  BaseTest:70 - -afterSuite method start--:hydrgon
+2021-05-09 18:21:45 INFO  BaseTest:72 - Flush extent report
+2021-05-09 18:23:29 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 18:23:29 INFO  BaseTest:58 - -beforeSuite method start--:hydrgon
+2021-05-09 18:23:29 INFO  BaseTest:59 - -before suite-init the Extent Report path
+2021-05-09 18:23:29 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 18:23:29 INFO  BaseTest:61 - -before suite-init the Extent Test
+2021-05-09 18:23:29 INFO  BaseTest:64 - ---Init Excel---
+2021-05-09 18:24:43 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 18:24:43 INFO  BaseTest:58 - -beforeSuite method start--:hydrgon
+2021-05-09 18:24:43 INFO  BaseTest:59 - -before suite-init the Extent Report path
+2021-05-09 18:24:43 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 18:24:44 INFO  BaseTest:61 - -before suite-init the Extent Test
+2021-05-09 18:24:44 INFO  BaseTest:64 - ---Init Excel---
+2021-05-09 18:24:44 INFO  ConfigFileReader:57 - excel data file find at:\src\main\resources\excels\Sample_TestData.xlsx
+2021-05-09 18:24:44 INFO  ExcelReader:31 - Fetch excel file,the excel file path is:D:\idea-space\hydrgon\src\main\resources\excels\Sample_TestData.xlsx
+2021-05-09 18:24:44 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-09 18:24:44 INFO  ExcelReader:90 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-09 18:24:44 INFO  ExcelReader:102 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:sex
+2021-05-09 18:24:44 INFO  ExcelReader:104 - Test data in excel cell by key is:female
+2021-05-09 18:24:44 INFO  ExcelReader:54 - Find test case:[tc2]at row:2
+2021-05-09 18:24:44 INFO  ExcelReader:90 - Test data in excel cell is:{"User":"user_2","Sex":"Female"}
+2021-05-09 18:24:44 INFO  ExcelReader:102 - Find test data at Excel Sheet:users,test case is:tc2, test data in column:3, key is:user
+2021-05-09 18:24:44 INFO  ExcelReader:104 - Test data in excel cell by key is:user_2
+2021-05-09 18:24:44 INFO  BaseTest:77 - -beforeMethod start--,the test case method name is:DataTest.DataProviderShow(java.lang.String,java.lang.String)[pri:0, instance:testcases.DataTest@383bfa16]
+2021-05-09 18:24:44 INFO  BaseTest:80 - --before method start, the test case name is:DataProviderShow
+2021-05-09 18:24:44 INFO  BaseTest:93 - The test case[DataProviderShow] is PASS
+2021-05-09 18:24:44 INFO  BaseTest:70 - -afterSuite method start--:hydrgon
+2021-05-09 18:24:45 INFO  BaseTest:72 - Flush extent report
+2021-05-09 18:28:45 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 18:28:45 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 18:28:45 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 18:28:48 INFO  BaseTest:45 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 18:28:48 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 18:28:48 INFO  BaseTest:54 - -before suite-init the Extent Report path
+2021-05-09 18:28:48 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 18:28:48 INFO  BaseTest:56 - -before suite-init the Extent Test
+2021-05-09 18:28:48 INFO  BaseTest:59 - ---Init Excel---
+2021-05-09 18:28:49 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@2289aca5]
+2021-05-09 18:28:49 INFO  BaseTest:74 - --before method start, the test case name is:baiduBaike
+2021-05-09 18:28:50 INFO  BaseTest:87 - The test case[baiduBaike] is PASS
+2021-05-09 18:28:50 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@2289aca5]
+2021-05-09 18:28:50 INFO  BaseTest:74 - --before method start, the test case name is:baiduFuc
+2021-05-09 18:28:50 INFO  BaseTest:87 - The test case[baiduFuc] is PASS
+2021-05-09 18:28:50 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@2289aca5]
+2021-05-09 18:28:50 INFO  BaseTest:74 - --before method start, the test case name is:searchBaidu
+2021-05-09 18:28:50 ERROR BaseTest:97 - The test case[searchBaidu] is FAIL
+2021-05-09 18:28:50 INFO  BaseTest:147 - The screenshot simple name is:2021-05-09_182850
+2021-05-09 18:28:51 INFO  BaseTest:134 - The screenshot full name is:D:\idea-space\hydrgon/test-output/screenshot/Screenshot2021-05-09_182850.jpeg
+2021-05-09 18:28:51 INFO  BaseTest:105 - The screenshot full path is:../screenshot/Screenshot2021-05-09_182850.jpeg
+2021-05-09 18:28:51 INFO  BaseTest:64 - -afterSuite method start--:hydrgon
+2021-05-09 18:28:51 INFO  BaseTest:66 - Flush extent report
+2021-05-09 18:41:14 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 18:41:14 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 18:41:14 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 18:41:17 INFO  BaseTest:45 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 18:41:17 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 18:41:17 INFO  BaseTest:54 - -before suite-init the Extent Report path
+2021-05-09 18:41:17 INFO  ConfigFileReader:98 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 18:41:17 INFO  BaseTest:56 - -before suite-init the Extent Test
+2021-05-09 18:41:17 INFO  BaseTest:59 - ---Init Excel---
+2021-05-09 18:41:17 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@4215838f]
+2021-05-09 18:41:17 INFO  BaseTest:74 - --before method start, the test case name is:baiduBaike
+2021-05-09 18:41:19 INFO  BaseTest:87 - The test case[baiduBaike] is PASS
+2021-05-09 18:41:19 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@4215838f]
+2021-05-09 18:41:19 INFO  BaseTest:74 - --before method start, the test case name is:baiduFuc
+2021-05-09 18:41:19 INFO  BaseTest:87 - The test case[baiduFuc] is PASS
+2021-05-09 18:41:19 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@4215838f]
+2021-05-09 18:41:19 INFO  BaseTest:74 - --before method start, the test case name is:searchBaidu
+2021-05-09 18:41:19 ERROR BaseTest:97 - The test case[searchBaidu] is FAIL
+2021-05-09 18:41:19 INFO  BaseTest:147 - The screenshot simple name is:2021-05-09_184119
+2021-05-09 18:41:20 INFO  BaseTest:134 - The screenshot full name is:D:\idea-space\hydrgon/test-output/screenshot/Screenshot2021-05-09_184119.jpeg
+2021-05-09 18:41:20 INFO  BaseTest:105 - The screenshot full path is:../../screenshot/Screenshot2021-05-09_184119.jpeg
+2021-05-09 18:41:20 INFO  BaseTest:64 - -afterSuite method start--:hydrgon
+2021-05-09 18:41:20 INFO  BaseTest:66 - Flush extent report
+2021-05-09 18:55:43 INFO  ConfigFileReader:22 - Find properties file at:D:\idea-space\hydrgon/src/main/resources/config/Configuration.properties
+2021-05-09 18:55:43 INFO  ConfigFileReader:46 - Web Driver path is found from properties file at:\src\main\resources\webdrivers\chromedriver.exe
+2021-05-09 18:55:43 INFO  ConfigFileReader:85 - the url find from properties file is:https:www.baidu.com
+2021-05-09 18:55:46 INFO  BaseTest:46 - Invoke ManagerBrowser.setWebDriver() to Init web driver
+2021-05-09 18:55:46 INFO  BaseTest:53 - -beforeSuite method start--:hydrgon
+2021-05-09 18:55:46 INFO  BaseTest:54 - -before suite-init the Extent Report path
+2021-05-09 18:55:46 INFO  ConfigFileReader:97 - Extent html report path is found from properties file/test-output/reports/htmlReports/
+2021-05-09 18:55:46 INFO  BaseTest:56 - -before suite-init the Extent Test
+2021-05-09 18:55:46 INFO  BaseTest:59 - ---Init Excel---
+2021-05-09 18:55:46 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.baiduBaike()[pri:0, instance:testcases.BaiduTC@452ba1db]
+2021-05-09 18:55:46 INFO  BaseTest:74 - --before method start, the test case name is:baiduBaike
+2021-05-09 18:55:47 INFO  BaseTest:87 - The test case[baiduBaike] is PASS
+2021-05-09 18:55:47 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.baiduFuc()[pri:0, instance:testcases.BaiduTC@452ba1db]
+2021-05-09 18:55:47 INFO  BaseTest:74 - --before method start, the test case name is:baiduFuc
+2021-05-09 18:55:47 INFO  BaseTest:87 - The test case[baiduFuc] is PASS
+2021-05-09 18:55:47 INFO  BaseTest:71 - -beforeMethod start--,the test case method name is:BaiduTC.searchBaidu()[pri:0, instance:testcases.BaiduTC@452ba1db]
+2021-05-09 18:55:47 INFO  BaseTest:74 - --before method start, the test case name is:searchBaidu
+2021-05-09 18:55:47 ERROR BaseTest:97 - The test case[searchBaidu] is FAIL
+2021-05-09 18:55:47 INFO  ConfigFileReader:134 - The swith of take screenshot properties file is:"no"
+2021-05-09 18:55:47 INFO  BaseTest:64 - -afterSuite method start--:hydrgon
+2021-05-09 18:55:48 INFO  BaseTest:66 - Flush extent report

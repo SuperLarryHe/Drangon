@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="BaiduTestSuite" verbose="1" >
+    <test name="BaiduTest" >
+        <groups>
+            <run>
+                <exclude name="apple"  />
+                <include name="pie"  />
+            </run>
+        </groups>
+        <classes>
+            <class name="testcases.BaiduTC" />
+        </classes>
+    </test>
+
+</suite>
